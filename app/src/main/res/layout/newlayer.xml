@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"><![CDATA[
+    tools:context=".newlayout">
+
+    ]]>
+
+    <TextView
+        android:layout_width="366dp"
+        android:layout_height="46dp"
+        android:textAlignment="center"
+        android:text="@string/Biodata"
+        android:layout_marginTop="30px"
+        android:layout_marginBottom="20px"
+        android:textSize="58px"
+        android:textColor="@color/darkteal" />
+
+    <TextView
+        android:layout_width="366dp"
+        android:layout_height="46dp"
+        android:text="@string/Nama"
+        android:textColor="@color/red" />
+
+    <TextView
+        android:layout_width="366dp"
+        android:layout_height="38dp"
+        android:text="@string/Nim"
+        android:textColor="@color/brightgreen" />
+
+    <TextView
+        android:layout_width="366dp"
+        android:layout_height="46dp"
+        android:text="@string/Prodi"
+        android:textColor="@color/blue" />
+
+</LinearLayout>
