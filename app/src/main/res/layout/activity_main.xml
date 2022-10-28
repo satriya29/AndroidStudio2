@@ -12,7 +12,7 @@
         android:layout_height="26dp"
         android:layout_marginStart="135dp"
         android:layout_marginLeft="140dp"
-        android:text="Hello World!"
+        android:text="it should not be hello world"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -28,7 +28,7 @@
         android:layout_marginLeft="124dp"
         android:layout_marginTop="236dp"
         android:background="@color/yellow"
-        android:text="Button"
+        android:text="Get Me In"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
