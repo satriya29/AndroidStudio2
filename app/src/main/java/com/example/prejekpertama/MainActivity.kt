@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         button_open1 = findViewById(R.id.button_open)
         button_open1.setOnClickListener(){
+            println("On Click Button Open")
             val intent = Intent ( this, newLayout::class.java)
         startActivity(intent)
         }
